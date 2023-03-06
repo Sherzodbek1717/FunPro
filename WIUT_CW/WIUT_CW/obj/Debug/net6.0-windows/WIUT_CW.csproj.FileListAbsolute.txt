@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\bin\Debug\net6.0-windows\WIUT_CW.exe
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\bin\Debug\net6.0-windows\WIUT_CW.deps.json
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\bin\Debug\net6.0-windows\WIUT_CW.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\bin\Debug\net6.0-windows\WIUT_CW.dll
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\bin\Debug\net6.0-windows\WIUT_CW.pdb
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.Form1.resources
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.dll
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\refint\WIUT_CW.dll
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.pdb
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\WIUT_CW.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HTML and CSS\WIUT_CW\WIUT_CW\obj\Debug\net6.0-windows\ref\WIUT_CW.dll
