@@ -1,0 +1,17 @@
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.csproj.AssemblyReference.cache
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.Form1.resources
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.csproj.GenerateResource.cache
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.GeneratedMSBuildEditorConfig.editorconfig
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.AssemblyInfoInputs.cache
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.AssemblyInfo.cs
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.csproj.CoreCompileInputs.cache
+D:\00013457\CW\CW\bin\Debug\net6.0-windows\CW.exe
+D:\00013457\CW\CW\bin\Debug\net6.0-windows\CW.deps.json
+D:\00013457\CW\CW\bin\Debug\net6.0-windows\CW.runtimeconfig.json
+D:\00013457\CW\CW\bin\Debug\net6.0-windows\CW.dll
+D:\00013457\CW\CW\bin\Debug\net6.0-windows\CW.pdb
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.dll
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\refint\CW.dll
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.pdb
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\CW.genruntimeconfig.cache
+D:\00013457\CW\CW\obj\Debug\net6.0-windows\ref\CW.dll
